@@ -1,1 +1,1 @@
-pip install package @ https://github.com/pettoss/AAI-500-project/new/main
+import numpy as np
